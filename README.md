@@ -1,7 +1,3 @@
-# Layer Edge Auto Bot
-
-- website : https://dashboard.layeredge.io/
-
 ## Features
 
 - **Auto Run Node**
@@ -17,8 +13,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/airdropinsiders/LayerEdge-Auto-Bot.git
-    cd LayerEdge-Auto-Bot
+    git clone https://github.com/SURAJBOSS09/layeredge-new.git
+    cd layeredge-new 
     ```
 
 2. Install the required dependencies:
